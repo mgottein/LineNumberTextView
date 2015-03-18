@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="vertical_gravity_label">Vertical Gravity</string>
+    <string name="horizontal_gravity_label">Horizontal Gravity</string>
+    <string-array name="vertical_gravity_options">
+        <item>top</item>
+        <item>center</item>
+        <item>bottom</item>
+    </string-array>
+    <string-array name="horizontal_gravity_options">
+        <item>left</item>
+        <item>center</item>
+        <item>right</item>
+    </string-array>
+    <string name="should_hug_line_label">Should line numbers hug line</string>
+    <string name="layout_on_left_label">Layout line numbers on left</string>
+    <string name="true_label">true</string>
+    <string name="false_label">false</string>
+    <string name="apply_settings_label">Apply</string>
+</resources>
